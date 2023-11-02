@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.131" height="13.492" viewBox="0 0 16.131 13.492">
+  <g id="Group_13000" data-name="Group 13000" transform="translate(-50.37 -243.397)">
+    <g id="Path_10159" data-name="Path 10159" transform="translate(50.37 248.62)" fill="none">
+      <path d="M0,0H3.693V8.267H0Z" stroke="none"/>
+      <path d="M 0.9999985694885254 0.999997615814209 L 0.9999985694885254 7.267337322235107 L 2.69269847869873 7.267337322235107 L 2.69269847869873 0.999997615814209 L 0.9999985694885254 0.999997615814209 M -1.430511474609375e-06 -2.86102294921875e-06 L 3.69269847869873 -2.86102294921875e-06 L 3.69269847869873 8.267337799072266 L -1.430511474609375e-06 8.267337799072266 L -1.430511474609375e-06 -2.86102294921875e-06 Z" stroke="none" fill="#014f9a"/>
+    </g>
+    <rect id="Rectangle_32781" data-name="Rectangle 32781" width="3.543" height="10.523" transform="translate(53.601 245.866)" fill="none" stroke="#014f9a" stroke-width="1"/>
+    <rect id="Rectangle_32782" data-name="Rectangle 32782" width="8.857" height="12.492" transform="translate(57.144 243.897)" fill="rgba(0,0,0,0)" stroke="#014f9a" stroke-linecap="round" stroke-width="1"/>
+    <rect id="Rectangle_32788" data-name="Rectangle 32788" width="3.588" height="2.059" transform="translate(59.779 248.161)" fill="#014f9a"/>
+    <rect id="Rectangle_32877" data-name="Rectangle 32877" width="3.588" height="2.059" transform="translate(59.779 245.161)" fill="#014f9a"/>
+    <rect id="Rectangle_32795" data-name="Rectangle 32795" width="3.588" height="4.888" transform="translate(59.779 251.5)" fill="#014f9a"/>
+  </g>
+</svg>

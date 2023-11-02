@@ -1,0 +1,69 @@
+{
+    "key": "group_5964ec9e26b50",
+    "title": "Resource Library",
+    "fields": [
+        {
+            "key": "field_5964ed60834d5",
+            "label": "URL",
+            "name": "resource_external_url",
+            "type": "url",
+            "instructions": "Add a URL to the resource.  This URL can be internal or external.  Use the fully qualified URL for both Internal and external resources.",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5964eceb834d4",
+                        "operator": "!=",
+                        "value": "1"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "aria-label": "",
+            "default_value": "",
+            "placeholder": ""
+        },
+        {
+            "key": "field_6414a76f416c3",
+            "label": "Download Button Text",
+            "name": "button_text",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Download",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "go2hr_resources"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1683677123
+}
